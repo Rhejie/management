@@ -1,0 +1,11 @@
+.ui.selection.dropdown {
+    font-size: 1.125rem !important;
+}
+
+.ui.search.selection.dropdown>input.search, .ui.search.selection.dropdown>span.sizer{
+    font-size: 1.125rem!important;
+}
+
+.mx-datepicker>.mx-input-wrapper>.form-control{
+    height: calc(1.5em + 0.75rem + 2px);
+}
